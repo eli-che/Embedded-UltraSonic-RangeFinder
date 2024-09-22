@@ -3,6 +3,8 @@
 This project implements an ultrasonic range finder using an ESP32, which measures the distance to an object and displays the results on a 16x2 I2C LCD. A passive buzzer is used to provide auditory feedback, where the tone changes depending on the distance to the detected object.
 
 ## Features
+https://github.com/user-attachments/assets/e35769c7-10b9-4d47-92c8-4488b6440ddf
+
 - **Distance Measurement**: Measures the distance to an object using an ultrasonic sensor and displays the result on an LCD.
 - **Auditory Feedback**: The buzzer emits a tone that changes in frequency based on the proximity to the object (higher tone for closer objects).
 - **Serial Output**: Outputs the distance data to the serial monitor for debugging and monitoring.
